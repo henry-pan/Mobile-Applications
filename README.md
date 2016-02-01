@@ -1,2 +1,2 @@
 # Mobile-Applications
-Android applications created by me.
+Various Android applications created by me.
