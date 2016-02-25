@@ -4,3 +4,8 @@ Various Android applications created by me. They should run on devices that have
 You can find the Java source files are in the folders.
 
 APK files can be installed directly onto devices.
+
+
+Apps confirmed to work on:
+Samsung Galaxy S4
+Nexus 5
