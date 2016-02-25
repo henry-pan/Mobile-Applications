@@ -7,5 +7,7 @@ APK files can be installed directly onto devices.
 
 
 Apps confirmed to work on:
+
 Samsung Galaxy S4
+
 Nexus 5
