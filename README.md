@@ -1,5 +1,7 @@
 # Mobile-Applications
-Various Android applications created by me. They should run on devices that have at least Android 4.0.3 (Ice Cream Sandwich).
+Various Android applications created by me.
+
+They should run on devices that have at least Android 4.0.3 (Ice Cream Sandwich).
 
 You can find the Java source files are in the folders.
 
