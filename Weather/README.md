@@ -5,6 +5,6 @@ This application grabs very specific weather data and displays it on the screen 
 
 Occasionally, there will be errors from the server...
 
-Just keep pressing the button to get data... It may take some time.
+Just keep pressing the button to get data, it may take some time.
 
 Developed as practice for getting JSON.
