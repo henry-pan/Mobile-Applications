@@ -8,7 +8,7 @@ You can find the Java source files in the folders.
 APK files can be installed directly onto devices.
 
 
-##Apps confirmed to work on:
+## Apps confirmed to work on:
 
 Samsung Galaxy S4
 
